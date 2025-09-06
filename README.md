@@ -1,5 +1,5 @@
 # User-Behavior-and-Citi-Bike-A-Study-of-Behavioral-Economics-and-Data-Analytics
-README for User Behavior and Citi Bike - A Study of Behavioral Economics and Data Analytics (BUS 446 Final Project)
+README for User Behavior and Citi Bike - A Study of Behavioral Economics and Data Analytics
 
 Data Section
 The data used for this project is sourced from the NYC OpenData repository [Citi Bike System Data] (https://data.cityofnewyork.us/NYC-BigApps/Citi-Bike-System-Data/vsnr-94wk). The study focuses on ride history data from May 2016 to 2023, with specific files listed in the README. Data cleaning steps are detailed, and the cleaned data is available in the "CitiBike Data Cleaned Data Sheet V2" Excel file.
